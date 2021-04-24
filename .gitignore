@@ -1,0 +1,7 @@
+# ignore tmp files
+tmp/*
+!tmp/.keep
+
+# ignore vim specific files
+bundle/
+autoload/
